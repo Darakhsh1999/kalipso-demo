@@ -1,0 +1,149 @@
+Investment Services Policy Document
+Falcon Capital Management Ltd.
+Version: 2.1
+Effective Date: January 15, 2024
+
+1. Introduction and Scope
+This policy document outlines the operational framework, compliance procedures, and governance structure of Falcon Capital Management Ltd. ("the Firm") as an investment firm authorized to provide investment services within the European Union.
+
+2. Authorization and Shareholding Disclosure
+
+2.1 Shareholding Structure
+The Firm maintains a transparent ownership structure with the following qualifying holdings:
+- Falcon Holdings Group: 45% (Direct holding)
+- Silver Oak Investments: 25% (Direct holding)
+- Management Trust: 20% (Indirect holding through nominees)
+- Other shareholders: 10% (No individual holding exceeds 5%)
+All shareholders with qualifying holdings have been disclosed to the competent authorities as part of our authorization process. The identities and amounts of these holdings are updated quarterly and reported to regulatory authorities.
+
+2.2 Close Links Assessment
+- The Firm has conducted a comprehensive assessment of close links and confirms:
+  - No close links exist with entities in third countries that would impede supervisory functions.
+  - All qualifying shareholders have been vetted for their influence on management.
+  - Annual reviews are conducted to ensure continued compliance.
+
+3. Acquisition and Disposal Notifications
+
+3.1 Notification Procedures
+Any natural or legal person intending to acquire a qualifying holding must:
+1. Submit written notification to competent authorities before acquisition.
+2. Provide complete information about the size of intended holding.
+3. Include all relevant information as specified by regulatory requirements.
+
+Thresholds requiring notification:
+- Initial qualifying holding (10% or more)
+- Increases reaching or exceeding 20%, 30%, or 50%
+- Any acquisition resulting in the Firm becoming a subsidiary
+
+3.2 Internal Monitoring
+The Firm monitors its shareholder register monthly and will inform competent authorities without delay of any changes crossing the 20%, 30%, or 50% thresholds.
+
+4. Capital Requirements
+
+4.1 Initial Capital
+The Firm maintains initial capital of €5 million, exceeding the minimum requirements for our authorized activities:
+- Trading for own account
+- Portfolio management
+- Investment advice
+
+Capital adequacy is monitored daily by the Risk Management team and reported monthly to the Board.
+
+5. Organizational Requirements
+
+5.1 Compliance Framework
+The Firm has established:
+- Compliance Department: Independent function reporting directly to the Board
+- Policies and Procedures: Comprehensive framework covering all regulated activities
+- Personal Account Dealing Policy: Mandatory for all staff, managers, and tied agents
+- Training Program: Annual compliance training for all personnel
+
+5.2 Conflict of Interest Management
+The Firm maintains robust arrangements to identify, prevent, and manage conflicts of interest:
+- Conflicts of Interest Register updated quarterly
+- Chinese walls between advisory and proprietary trading
+- Disclosure procedures for unavoidable conflicts
+- Annual review of conflict management effectiveness
+
+5.3 Business Continuity
+Our business continuity plan includes:
+- Redundant data centers with real-time replication
+- Documented procedures for service continuity
+- Annual disaster recovery testing
+- Service level agreements with critical vendors
+
+Note: Specific alignment with Regulation (EU) 2022/2554 requirements is currently under review and will be implemented by Q3 2024.
+
+6. Record Keeping
+
+6.1 General Record Keeping
+The Firm maintains records of:
+- All client transactions and services
+- Internal compliance monitoring
+- Board and committee minutes
+- Risk assessments and controls
+
+Records are retained for a minimum of 5 years (7 years for certain categories).
+
+6.2 Communications Recording
+- The Firm records all telephone conversations related to proprietary trading activities and client order execution.
+- Electronic communications (email, chat) recording for client orders is currently being implemented with expected completion by March 2024.
+
+7. Client Asset Protection
+
+7.1 Client Financial Instruments
+When holding client financial instruments, the Firm:
+- Maintains segregated custody accounts
+- Conducts daily reconciliations
+- Uses only approved third-party custodians
+- Obtains explicit consent for any use of client assets
+
+7.2 Client Funds
+- The Firm does not hold client money directly.
+- All client funds are held in segregated accounts at authorized credit institutions, subject to trust arrangements, and never used for the Firm's own purposes.
+
+7.3 Title Transfer Arrangements
+- The Firm is prohibited from entering into title transfer financial collateral arrangements with retail clients under any circumstances.
+
+8. Algorithmic Trading Controls
+[Section Under Development - The Firm currently does not engage in algorithmic trading but will establish policies before commencing such activities.]
+
+9. Governance and Oversight
+
+9.1 Board Responsibilities
+The Board of Directors:
+- Reviews and approves all policies annually
+- Oversees the implementation of compliance procedures
+- Ensures adequate resources for all control functions
+- Monitors the effectiveness of risk management
+
+9.2 Three Lines of Defense
+- First Line: Business units - ownership of risks and controls
+- Second Line: Risk and Compliance - oversight and challenge
+- Third Line: Internal Audit - independent assurance
+
+10. Regulatory Reporting
+The Firm submits all required reports to competent authorities including:
+- Transaction reporting under MiFIR
+- Periodic compliance assessments
+- Annual audited accounts
+- Shareholding structure updates
+
+11. Training and Competence
+All staff involved in regulated activities must:
+- Complete initial competency assessments
+- Undertake continuing professional development
+- Pass annual compliance examinations
+- Maintain relevant professional qualifications
+
+12. Implementation Timeline
+Enhancements planned for 2024:
+- Q1: Complete electronic communications recording
+- Q2: Enhanced ICT resilience framework
+- Q3: Full DORA compliance
+- Q4: Algorithmic trading policy (if applicable)
+
+Document Control
+Owner: Chief Compliance Officer
+Approved by: Board of Directors
+Next Review: January 2025
+Distribution: All Staff
